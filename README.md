@@ -1,5 +1,9 @@
 # vpc-terraform-github
- 
+
+ ## 🧱 Architecture Diagram
+
+![Architecture](https://github.com/gopu2311/TWSThreeTierApp/blob/main/267309862-0e09102c-2949-4576-be43-39900a2c1a95.png)
+
  ## Introduction 
  This GitHub project provides a comprehensive guide and a set of resources to create and manage infrastructure using Terraform and automate the deployment process using GitHub Actions. 
  
